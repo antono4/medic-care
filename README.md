@@ -1,2 +1,26 @@
-Last updated: 2026-09-11 00:07:57 WIB
-Last updated: 2026-09-11 00:11:50 WIB
+# medic-care
+
+
+
+## 📋 Overview
+
+This repository contains **29 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-11 00:48:02 WIB*
