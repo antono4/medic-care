@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/medic-care"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/medic-care-blue?logo=github"></a>
   <a href="https://antono4.github.io/medic-care/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-29-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 00:35:23 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-30-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 01:55:35 WIB-lightgrey">
 </p>
 
 ---
@@ -37,7 +37,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 - `CSS`
 - `JavaScript`
 
-> Total **29 file** terdeteksi di repository.
+> Total **30 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -63,4 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-18 00:35:23 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-18 01:55:35 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
